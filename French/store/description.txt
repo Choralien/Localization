@@ -33,10 +33,10 @@ L'appli et le serveur de télécommande unifiée sont téléchargeables et utili
 • Télécommande unifiée complète avec toutes les fonctions et télécommandes pour 3,99 $
 <% } %>
 
-<b>Essentials</b>
+<b>Essentiels</b>
 Mouse, Keyboard, Screen, Volume, and more.
 
-<b>Music</b>
+<b>Musique</b>
 Spotify, iTunes, Google Music, Winamp, etc.
 
 <b>Video</b>
@@ -51,13 +51,13 @@ YouTube, Netflix, Hulu
 <b>Presentations</b>
 PowerPoint, Keynote, Google Presentation
 
-<b>Browsers</b>
+<b>Navigateurs</b>
 Chrome, Internet Explorer, Firefox, Opera
 
-<b>Other</b>
+<b>Autres</b>
 Power, Monitor, Files, Task Manager, Commands, etc.
 
-<b>All Remotes</b>
+<b>Toutes</b>
 https://www.unifiedremote.com/remotes
 
 Notez que certaines télécommandes ne sont disponibles que pour certains systèmes d'exploitation.
